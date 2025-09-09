@@ -4,10 +4,10 @@ function loadFooter() {
       <div class="container-fluid px-4">
         <div class="d-flex align-items-center justify-content-between small" style="margin:auto;width:fit-content;">
           <div class="text-muted text-center">
-            <img alt="JELLPLAY" 
+            <br>Source &copy; 
+             <img alt="JELLPLAY" 
                  src="https://cdn.jsdelivr.net/gh/justtme188/footer@00f0fecbfd9e2395b9020b5e395e31e5a8460842/logo.png" 
                  style="max-width:10%;height:auto;">
-            <br>Source &copy; 
             JELLPLAY ${new Date().getFullYear()}
           </div>
         </div>
